@@ -16,5 +16,5 @@ function showDiv(n) {
     for (i = 0; i < imageArray.length; i++) {
         imageArray[i].style.display = "none";
     }
-    imageArray[imageConter - 1].style.display = "block";
+    imageArray[imageCounter - 1].style.display = "block";
 }
