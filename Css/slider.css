@@ -37,6 +37,14 @@
 
 
 
+ #dropbtn0 {
+    background-color: lightyellow;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: dashed;
+  }
+
 #dropbtn1 {
     background-color: lightblue;
     color: white;
